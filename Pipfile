@@ -14,6 +14,7 @@ plotly = "*"
 pillow = "*"
 seaborn = "*"
 dataframe-image = "*"
+gradio = "*"
 
 [dev-packages]
 pytest = "*"

@@ -69,4 +69,4 @@ jobs:
           disable_globbing: true
       
           # Optional. Create given branch name in local and remote repository.
-          create_branch: false
+          create_branch: true

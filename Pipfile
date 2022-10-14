@@ -15,9 +15,12 @@ pillow = "*"
 seaborn = "*"
 dataframe-image = "*"
 gradio = "*"
+pre-commit = "*"
 
 [dev-packages]
 pytest = "*"
+nox = "*"
+pytest-cov = "*"
 
 [requires]
 python_version = "3.8"

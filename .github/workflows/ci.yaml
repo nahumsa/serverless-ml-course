@@ -32,8 +32,8 @@ jobs:
           python -m pip install pip --upgrade pip
           pip install nox
 
-      - name: Running tests
-        run: nox -s tests
-
       - name: Checking code style
         run: nox -s style
+
+      - name: Running tests
+        run: nox -s tests

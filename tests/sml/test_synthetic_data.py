@@ -1,3 +1,4 @@
+# Need to use this because of the file structure
 import sys
 
 sys.path.append("src/02_data_modeling_credit_card")
